@@ -1,7 +1,7 @@
-#Simple Calculator (Tkinter)
+# Simple Calculator (Tkinter)
 A basic GUI calculator built with Python and Tkinter.
 
-#Features
+## Features
 
 Perform basic arithmetic operations: addition, subtraction, multiplication, and division.
 
@@ -11,7 +11,7 @@ Clear button to reset the input.
 
 Handles division by zero gracefully.
 
-#How to Run
+# How to Run
 
 Make sure Python is installed.
 
@@ -22,6 +22,6 @@ python calculator.py
 
 Use the buttons to enter numbers and operations.
 
-#License
+# License
 
 Free to use and modify.
